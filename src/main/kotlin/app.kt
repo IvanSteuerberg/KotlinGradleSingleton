@@ -1,6 +1,6 @@
 fun main(){
 
-ElTiempo.Tiempo.imprimir()
+Tiempo.imprimir()
 
 
 }
